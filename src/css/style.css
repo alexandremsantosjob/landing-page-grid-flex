@@ -288,3 +288,8 @@ body{
     .footer .social a:hover{
         color: #fff;
     }
+
+    #creator{
+        margin: 10px;
+        font-weight: 400;
+    }
